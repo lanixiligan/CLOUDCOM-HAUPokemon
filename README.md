@@ -1,5 +1,4 @@
-# HAUPokemon Infrastructure Registry
-
+# HAUPokemon 
 This document outlines the cloud infrastructure and secure networking configuration for the HAUPokemon mobile ecosystem.
 
 ## ☁️ AWS EC2 Instances
