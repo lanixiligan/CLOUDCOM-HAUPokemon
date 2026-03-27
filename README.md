@@ -51,5 +51,6 @@ Place your downloaded `.pem` files in the following location:
 To verify the system functionality on the website or mobile app, use the following authorized testing account:
 
 **Username:** testuser
+
 **Password:** test123
 Access Level: Standard Hunter (Registry Access Enabled)
