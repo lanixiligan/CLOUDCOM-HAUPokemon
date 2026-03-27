@@ -53,4 +53,3 @@ To verify the system functionality on the website or mobile app, use the followi
 **Username:** testuser
 
 **Password:** test123
-Access Level: Standard Hunter (Registry Access Enabled)
