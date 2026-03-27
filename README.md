@@ -46,3 +46,10 @@ Place your downloaded `.pem` files in the following location:
    cd lib/EC2KEYS
    chmod 400 haudbkp.pem
    chmod 400 hauwebkp.pem
+
+### Testing & QA Credentials
+To verify the system functionality on the website or mobile app, use the following authorized testing account:
+
+**Username:** testuser
+**Password:** test123
+Access Level: Standard Hunter (Registry Access Enabled)
